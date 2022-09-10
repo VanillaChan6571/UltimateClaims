@@ -34,11 +34,17 @@
 
 ## Table of Contents 
 
+*   [Forked Notice](#forked-notice)
 *   [Introduction](#introduction)
 *   [Marketplace](#marketplace)
 *   [Documentation](#documentation)
 *   [Support](#support)
 *   [Suggestions](#suggestions)
+
+## Forked Notice
+THIS IS A FORKED PROJECT. DO NOT USE FOR PRODUCTION AS IT COULD BE AN ISSUE WITH FUTURE SUPPORT BY SONGODA!!
+I do not and will not take any responsiblity for any corruption for database/sql stuff that songoda may change!
+I will try my attempts to update the project early but you been warned as it may or may not work.
 
 ## Introduction
 UltimateClaims is a highly configurable land claiming and protection plugin,
